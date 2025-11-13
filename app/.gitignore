@@ -1,1 +1,15 @@
-/build
+# App-specific build files
+/build/
+# Captures and generated assets
+/captures/
+/outputs/
+
+# Local test results
+/test-results/
+/reports/
+
+# AI/ML model files (if any)
+*.tflite
+*.pt
+*.onnx
+*.mlmodel
